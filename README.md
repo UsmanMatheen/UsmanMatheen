@@ -57,7 +57,6 @@ I focus on:
 - Processed 1M+ multimodal records (traffic + weather + OSM)  
 - Built ML models (AUC **0.91**) to predict congestion & accident risk  
 - Deployed a real-time Flask API + Plotly-Dash dashboard  
-🔗 *(Repo link coming soon)*  
 
 ---
 
@@ -65,8 +64,7 @@ I focus on:
 **Tech:** LightGBM, Pandas, Time-Series CV  
 - Forecasted future seat demand 15 days ahead  
 - Engineered temporal, seasonal, and regional variables  
-- Improved RMSE via randomized search + TS cross-validation  
-🔗 *(Repo link coming soon)*  
+- Improved RMSE via randomized search + TS cross-validation
 
 ---
 
@@ -75,7 +73,6 @@ I focus on:
 - Processed 1.2GB+ of ride data  
 - Identified seasonal travel clusters & commuter patterns  
 - Built classification model with **99% accuracy**  
-🔗 *(Repo link coming soon)*  
 
 ---
 
