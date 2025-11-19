@@ -1,4 +1,4 @@
-# ⭐ Usman Matheen Hameed — Data Scientist & ML Engineer  
+# ⭐ Usman Matheen Hameed - Data Scientist & ML Engineer  
 Chicago, IL • Master’s in Data Science @ Illinois Tech  
 
 Passionate about building data-driven products, machine learning systems, and analytical tools that solve real-world problems. I specialize in end-to-end ML development, geospatial analytics, predictive modeling, and deploying scalable AI solutions.
@@ -77,7 +77,7 @@ I focus on:
 ---
 
 ## 🏆 Certifications
-- **SnowPro Core — Snowflake**  
+- **SnowPro Core - Snowflake**  
 - **Salesforce AI Associate**  
 - (AWS certifications in progress)
 
@@ -92,10 +92,10 @@ I focus on:
 
 ## 💼 Experience Snapshot
 
-### **Data Science Intern — Center for Neighborhood Technology (Chicago)**  
+### **Data Science Intern - Center for Neighborhood Technology (Chicago)**  
 Developed a predictive ML pipeline to identify 1,200+ vacant parcels for equitable transit development using spatial, zoning, LIDAR, and VMT datasets.
 
-### **Data Analyst — Prochant Healthcare Solutions**  
+### **Data Analyst - Prochant Healthcare Solutions**  
 Automated SQL workflows, validated 10K+ claims weekly, and built Power BI dashboards that reduced claim rejections by 20%.
 
 ---
